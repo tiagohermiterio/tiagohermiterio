@@ -1,6 +1,9 @@
 # About Me:
 Hey there. <br><br>I'm Tiago, aka ShyYuto, a developer and designer from Portugal.<br><br>I like building things, breaking things, and figuring out how they work. I'm especially interested in game development, web development, graphic design and tech in general.<br><br>Currently building projects under ShyLabs Media, while learning, experimenting, and occasionally turning questionable ideas into actual projects.<br><br>Tools & tech: Python • HTML/CSS/JS • Godot • GameMaker • Figma • Photosop • DaVinci Resolve<br>Always learning. Always creating.
 
+<p align="center">
+<img src="codebunny.gif" width="200">
+</p>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shyyuto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiago-hermitério) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/shyyuto) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shyyuto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiagohermiterio@proton.me) 
